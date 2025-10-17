@@ -38,8 +38,6 @@ public class MainApp {
                 System.out.println("Nombre invalide. Réessayez.");
             } catch (ArithmeticException e) {
                 System.out.println("Erreur arithmétique: " + e.getMessage());
-            } catch (InputMismatchException e) {
-                System.out.println("Entrée invalide. Réessayez.");
             }
         }
 
