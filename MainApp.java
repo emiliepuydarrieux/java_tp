@@ -43,7 +43,6 @@ public class MainApp {
             }
         }
 
-        System.out.println("Au revoir !");
         sc.close();
     }
 
