@@ -1,3 +1,5 @@
+// Commentaire conflit 1
+
 package java_tp;
 
 import java.util.InputMismatchException;
