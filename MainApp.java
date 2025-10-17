@@ -35,7 +35,7 @@ public class MainApp {
                 double result = calculate(a, b, op);
                 System.out.println("Résultat: " + result);
             } catch (NumberFormatException e) {
-                System.out.println("Nombre invalide. Réessayez.");
+                System.out.println("Nombre invalide. Mon conflit.");
             } catch (ArithmeticException e) {
                 System.out.println("Erreur arithmétique: " + e.getMessage());
             }
