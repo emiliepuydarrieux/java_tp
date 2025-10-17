@@ -1,4 +1,4 @@
-// Commentaire conflit 1
+// Commentaire conflit 2
 
 package java_tp;
 
